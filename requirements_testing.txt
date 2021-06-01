@@ -1,0 +1,8 @@
+dash[testing]
+catboost
+lightgbm
+xgboost
+torch
+skorch
+selenium
+pytest-console-scripts
